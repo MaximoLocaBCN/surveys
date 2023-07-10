@@ -1,0 +1,30 @@
+{
+  "name": "surveys",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3002",
+    "build": "next build",
+    "start": "next start -p 3002",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "accept-language": "3.0.18",
+    "crypto-js": "4.1.1",
+    "date-fns": "2.30.0",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.6",
+    "i18next": "23.2.0",
+    "i18next-browser-languagedetector": "7.0.2",
+    "i18next-resources-to-backend": "1.1.4",
+    "js-base64": "3.7.5",
+    "mailersend": "^2.1.2",
+    "memory-cache": "0.2.0",
+    "next": "13.4.6",
+    "react": "18.2.0",
+    "react-date-range": "1.4.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "7.44.3",
+    "react-i18next": "13.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "bookingNotAvailable": "Reserva online no disponible",
+    "bookingNotAvailableDesc_1": "Aquesta propietat no permet la reserva online en aquest moment.",
+    "bookingContactError_1": "Pot posar-se ",
+    "bookingContactError_link": "en contacte amb el nostre equip comercial",
+    "bookingContactError_2": " per a més informació.",
+    "bookingError": "Error al sol·licitar la reserva"
+}

@@ -1,0 +1,31 @@
+  .pruebas {
+    border: #000 1px solid;
+  }
+
+  textarea {
+    width: 500px;
+    height: 200px;
+    resize: none;
+    overflow: auto;
+   }
+
+   .text-bar {
+    background-color: #4f4f4f;
+    height: 10px;
+    width: 70px;
+    margin: 0px;
+    margin-right: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    transition: background-color 0.5s;
+  }
+  
+  .text-bar.solid {
+    background-color: #000;
+  }
+  
+  .text-bar.faded {
+    background-color: #4f4f4f;
+    opacity: 0.5;
+  }
+  

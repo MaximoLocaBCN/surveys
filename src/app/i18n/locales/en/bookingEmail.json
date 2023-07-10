@@ -1,0 +1,18 @@
+{
+    "hello": "Hello {{name}}",
+    "line1": "Thank you very much, we have successfully received your reservation request!",
+    "line2": "In order to proceed with the study of your profile for the property, we will need the following documentation:",
+    "line3_1": "You must send it by responding to this same email within a",
+    "line3_2": "MAXIMUM",
+    "line3_3": "period of 48-72 hours.",
+    "line4": "If you have doubts or questions in the meantime you can contact contact@locabarcelona.com or call 934 675 267.",
+    "line5": "Have a good day!",
+    "small_print_1": "(1) In no case does this email act as a reservation and/or proof of it.",
+    "small_print_2": "(2) In the event of not having received the documentation within said period, the amount of the pre-reservation will be refunded.",
+    "docs_ID": "DNI/NIE or Passport",
+    "docs_contract": "Work contract",
+    "docs_payroll": "3 lasts payslips",
+    "docs_student_enrollment": "School or university enrollment / internship agreement",
+    "docs_ID_parents": "Parent’s ID",
+    "docs_solvency": "Proof of solvency, either income statement or last 3 payslips of the person(s) paying for the accommodation "
+}

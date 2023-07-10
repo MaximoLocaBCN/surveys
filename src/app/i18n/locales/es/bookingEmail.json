@@ -1,0 +1,18 @@
+{
+    "hello": "Hola {{name}}",
+    "line1": "Muchas gracias, hemos recibido correctamente tu solicitud de reserva!",
+    "line2": "Para poder proceder al estudio de tu perfil por la propiedad necesitamos la siguiente documentación: ",
+    "line3_1": "Debes enviarla respondiendo a este mismo mail en un plazo",
+    "line3_2": "MÁXIMO",
+    "line3_3": "de 48-72h.",
+    "line4": "Si tienes dudas o preguntas entretiempo puedes contactar a contact@locabarcelona.com o bien llamar al 934 675 267.",
+    "line5": "Que tengas un buen dia!",
+    "small_print_1": "(1) En ningún caso este mail actúa como reserva y/o comprobante de ella.",
+    "small_print_2": "(2) En caso de no haber recibido la documentación en dicho plazo, se procederá a la devolución del importe de la pre-reserva.",
+    "docs_ID": "DNI/NIE o Pasaporte",
+    "docs_contract": "Contrato de trabajo",
+    "docs_payroll": "Nóminas de los últimos 3 meses",
+    "docs_student_enrollment": "Matrícula de la escuela o universidad / convenio de prácticas",
+    "docs_ID_parents": "DNI/NIE o Pasaporte de los padres",
+    "docs_solvency": "Documentación que acredite solvencia, ya sea declaracion de la renta o 3 últimas nóminas de la o las persona(s) que pague por el alojamiento"
+}

@@ -1,0 +1,8 @@
+{
+    "bookingNotAvailable": "La réservation en ligne n'est pas disponible",
+    "bookingNotAvailableDesc_1": "Cette propriété n'est actuellement pas disponible pour la réservation en ligne.",
+    "bookingContactError_1": "",
+    "bookingContactError_link": "Contactez notre équipe de vente",
+    "bookingContactError_2": " pour plus d'informations.",
+    "bookingError": "Une erreur s'est produite sur la demande de réservation"
+}

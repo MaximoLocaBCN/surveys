@@ -1,0 +1,18 @@
+{
+    "hello": "Bonjour {{name}} ",
+    "line1": "Merci beaucoup, nous avons bien reçu votre demande de réservation ! ",
+    "line2": "Afin de procéder à l'étude de votre profil par le propriétaire, nous aurons besoin de la documentation suivante : ",
+    "line3_1": "Vous devrez l'envoyer en répondant à ce même mail dans un délai MAXIMUM ",
+    "line3_2": "MAXIMUM",
+    "line3_3": "de 48-72 heures.",
+    "line4": "Si vous avez des doutes ou des questions entre temps, vous pouvez contacter contact@locabarcelona.com ou appeler le 934 675 267.",
+    "line5": "Vous souhaitant une bonne journée!",
+    "small_print_1": "(1) En aucun cas cet email ne vaut réservation et/ou preuve de celle-ci.",
+    "small_print_2": "(2) En cas de non réception de la documentation dans ledit délai, le montant de la pré-réservation sera remboursé.",
+    "docs_ID": "DNI/NIE ou Passport",
+    "docs_contract": "Contrat de travail",
+    "docs_payroll": "3 dernières fiches de paie",
+    "docs_student_enrollment": "Certificat de scolarité / convention de stage",
+    "docs_ID_parents": "Carte d’identité des parents",
+    "docs_solvency": "Un justificatif de solvabilité, soit une déclaration de revenus, soit les 3 derniers bulletins de salaire de la ou des personne(s) payant le logement"
+}

@@ -1,0 +1,173 @@
+[
+    {
+        "key": "owners",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/servicios-propietarios/",
+            "fr": "https://www.locabarcelona.com/fr/services-aux-proprietaires/",
+            "en": "https://www.locabarcelona.com/en/landlord-services/",
+            "ca": "https://www.locabarcelona.com/ca/serveis-propietaris/"
+        }
+    },
+    {
+        "key": "short_term_rent",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/property-status/alquiler-de-temporada/",
+            "fr": "https://www.locabarcelona.com/fr/property-status/location-temporaire/",
+            "en": "https://www.locabarcelona.com/en/property-status/short-term-rental/",
+            "ca": "https://www.locabarcelona.com/ca/tipus-de-servei/lloguer-de-temporada/"
+        }
+    },
+    {
+        "key": "long_term_rent",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/property-status/alquiler-larga-estancia/",
+            "fr": "https://www.locabarcelona.com/fr/property-status/location-longue-duree/",
+            "en": "https://www.locabarcelona.com/en/property-status/long-term-rental/",
+            "ca": "https://www.locabarcelona.com/ca/tipus-de-servei/lloguer-de-llarga-estada/"
+        }
+    },
+    {
+        "key": "tourist_rental",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/property-status/alquiler-turistico/",
+            "fr": "https://www.locabarcelona.com/fr/type-de-service/location-vacances-barcelone/",
+            "en": "https://www.locabarcelona.com/en/property-status/tourist-rental/",
+            "ca": "https://www.locabarcelona.com/ca/tipus-de-servei/lloguer-turistic/"
+        }
+    },
+    {
+        "key": "sales",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/property-status/venta/",
+            "fr": "https://www.locabarcelona.com/fr/property-status/vente/",
+            "en": "https://www.locabarcelona.com/en/property-status/sales/",
+            "ca": "https://www.locabarcelona.com/ca/tipus-de-servei/venda/"
+        }
+    },
+    {
+        "key": "blog",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/actualidad-inmobiliaria/",
+            "fr": "https://www.locabarcelona.com/fr/actualite-immobiliere/",
+            "en": "https://www.locabarcelona.com/en/real-estate-news/",
+            "ca": "https://www.locabarcelona.com/ca/actualitat-immobiliaria/"
+        }
+    },
+    {
+        "key": "services_short_term_rent",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-temporal",
+            "fr": "https://www.locabarcelona.com/fr/agence-immobiliere-barcelone/location-temporaire/",
+            "en": "https://www.locabarcelona.com/en/real-estate-agency-barcelona/short-term-rental/",
+            "ca": "https://www.locabarcelona.com/ca/agencia-immobiliaria-de-barcelona/lloguer-de-temporada/"
+        }
+    },
+    {
+        "key": "services_long_term_rent",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-larga-estancia/",
+            "fr": "https://www.locabarcelona.com/fr/agence-immobiliere-barcelone/location-longue-duree/",
+            "en": "https://www.locabarcelona.com/en/real-estate-agency-barcelona/long-term-rental/",
+            "ca": "https://www.locabarcelona.com/ca/agencia-immobiliaria-de-barcelona/lloguer-de-llarga-estada/"
+        }
+    },
+    {
+        "key": "services_tourist_rental",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/alquiler-turistico/",
+            "fr": "https://www.locabarcelona.com/fr/agence-immobiliere-barcelone/location-touristique/",
+            "en": "https://www.locabarcelona.com/en/real-estate-agency-barcelona/tourist-rental/",
+            "ca": "https://www.locabarcelona.com/ca/agencia-immobiliaria-de-barcelona/lloguer-turistic/"
+        }
+    },
+    {
+        "key": "services_sales",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/compraventa-de-apartamentos/",
+            "fr": "https://www.locabarcelona.com/fr/agence-immobiliere-barcelone/service-achat-et-vente/",
+            "en": "https://www.locabarcelona.com/en/real-estate-agency-barcelona/sales-purchase-service/",
+            "ca": "https://www.locabarcelona.com/ca/agencia-immobiliaria-de-barcelona/compravenda-apartaments/"
+        }
+    },
+    {
+        "key": "services_insurance",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/agencia-inmobiliaria-barcelona/servicio-seguro-personal/",
+            "fr": "https://www.locabarcelona.com/fr/agence-immobiliere-barcelone/service-assurance-aux-particuliers/",
+            "en": "https://www.locabarcelona.com/en/real-estate-agency-barcelona/insurance-service/",
+            "ca": "https://www.locabarcelona.com/ca/agencia-immobiliaria-de-barcelona/servei-asseguranca-personal/"
+        }
+    },
+    {
+        "key": "contact_us",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/sobre-nosotros/contactanos/",
+            "fr": "https://www.locabarcelona.com/fr/qui-sommes-nous/contactez-nous/",
+            "en": "https://www.locabarcelona.com/en/about-us/contact-us/",
+            "ca": "https://www.locabarcelona.com/ca/sobre-nosaltres/contactans/"
+        }
+    },
+    {
+        "key": "team",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/sobre-nosotros/equipo/",
+            "fr": "https://www.locabarcelona.com/fr/qui-sommes-nous/equipe/",
+            "en": "https://www.locabarcelona.com/en/about-us/who-are-we/",
+            "ca": "https://www.locabarcelona.com/ca/sobre-nosaltres/equip/"
+        }
+    },
+    {
+        "key": "partners",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/sobre-nosotros/socios/",
+            "fr": "https://www.locabarcelona.com/fr/qui-sommes-nous/partenaires/",
+            "en": "https://www.locabarcelona.com/en/about-us/partners/",
+            "ca": "https://www.locabarcelona.com/ca/sobre-nosaltres/socis/"
+        }
+    },
+    {
+        "key": "faqs",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/sobre-nosotros/faq/",
+            "fr": "https://www.locabarcelona.com/fr/qui-sommes-nous/faq/",
+            "en": "https://www.locabarcelona.com/en/about-us/faq/",
+            "ca": "https://www.locabarcelona.com/ca/sobre-nosaltres/faq/"
+        }
+    },
+    {
+        "key": "join_us",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/sobre-nosotros/unete-a-nuestro-equipo/",
+            "fr": "https://www.locabarcelona.com/fr/qui-sommes-nous/travailler-chez-nous/",
+            "en": "https://www.locabarcelona.com/en/about-us/recruitment/",
+            "ca": "https://www.locabarcelona.com/ca/sobre-nosaltres/uneix-te-al-nostre-equip/"
+        }
+    },
+    {
+        "key": "cookies_policy",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/politica-de-cookies/",
+            "fr": "https://www.locabarcelona.com/fr/politique-de-cookies/",
+            "en": "https://www.locabarcelona.com/en/cookies-policy/",
+            "ca": "https://www.locabarcelona.com/ca/politica-de-cookies/"
+        }
+    },
+    {
+        "key": "privacy_policy",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/politica-de-privacidad/",
+            "fr": "https://www.locabarcelona.com/es/politica-de-privacidad/",
+            "en": "https://www.locabarcelona.com/en/privacy-policy/",
+            "ca": "https://www.locabarcelona.com/ca/politica-de-privacitat/"
+        }
+    },
+    {
+        "key": "terms_of_use",
+        "routes": {
+            "es": "https://www.locabarcelona.com/es/terminos-y-condiciones/",
+            "fr": "https://www.locabarcelona.com/fr/conditions-generales/",
+            "en": "https://www.locabarcelona.com/en/conditions-generales/",
+            "ca": "https://www.locabarcelona.com/en/conditions-generales/"
+        }
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "bookingNotAvailable": "Online Booking not available",
+    "bookingNotAvailableDesc_1": "This property is currently not available for online booking.",
+    "bookingContactError_1": "Please ",
+    "bookingContactError_link": "contact our sales team",
+    "bookingContactError_2": " for more information.",
+    "bookingError": "Error occured on booking request"
+}
